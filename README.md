@@ -11,6 +11,8 @@ Este es el portafolio de Efrain Para Code Ninja
 
 #### Contributing
 - enviar mensaje por pull request
+- Lenguaje apropiado
+- Estilo adecuado
 
 
 
